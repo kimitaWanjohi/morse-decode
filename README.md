@@ -79,6 +79,12 @@ Clone this repository to your desired folder:
 - LinkedIn: [kimitawanjohi](https://linkedin.com/in/kimitawanjohi)
 
 
+👤 **Zuheb Ahmed**
+- GitHub: [&nbsp; &nbsp; @githubhandle](https://github.com/zuhebahmed88091)
+- Twitter: [&nbsp; &nbsp; @twitterhandle](https://twitter.com/ZuhebAhmed88091)
+- LinkedIn: [&nbsp; LinkedIn](https://www.linkedin.com/in/zuheb-ahmed/)
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
